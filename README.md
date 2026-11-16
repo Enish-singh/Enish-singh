@@ -69,15 +69,6 @@ A website design for a barber shop.
 
 ---
 
-## 🎓 Education
-
-| Degree | Institution | Years |
-|---|---|---|
-| Master of Computer Applications (MCA) | Roorkee Institute of Technology | 2024 – 2026 |
-| Bachelor of Computer Application (BCA) | Arunachal University of Studies | 2019 – 2022 |
-
----
-
 ## 🛠️ Tech Stack
 
 **Core**
@@ -105,6 +96,15 @@ A website design for a barber shop.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Years |
+|---|---|---|
+| Master of Computer Applications (MCA) | Roorkee Institute of Technology | 2024 – 2026 |
+| Bachelor of Computer Application (BCA) | Arunachal University of Studies | 2019 – 2022 |
 
 ---
 
